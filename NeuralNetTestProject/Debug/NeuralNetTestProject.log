@@ -1,0 +1,6 @@
+﻿  Neuron.cpp
+  NeuralNetTestProject.cpp
+  Net.cpp
+c:\users\user\documents\visual studio 2015\projects\neuralnettestproject\neuralnettestproject\net.cpp(85): error C2039: 'updateInputWeights': is not a member of 'Neuron'
+  c:\users\user\documents\visual studio 2015\projects\neuralnettestproject\neuralnettestproject\neuron.h(18): note: see declaration of 'Neuron'
+  Generating Code...
